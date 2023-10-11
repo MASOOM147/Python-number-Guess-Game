@@ -1,5 +1,4 @@
 # Python-number-Guess-Game
-# Number Guessing Game
 
 This README provides an overview and explanation of the code for a Number Guessing Game. The purpose of this code is to create a simple text-based game where the player guesses a random number between 1 and 20.
 
